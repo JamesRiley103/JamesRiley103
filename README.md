@@ -1,5 +1,5 @@
 Hi, I’m @JamesRiley103  
-I've recently graduated from a Computing Msc and I'm currently looking to work in a Software Engineering role.  
+I'm a recent Msc Computing Graduate and I'm currently looking to work in a Software Engineering role.  
 You can reach me at js.riley103@gmail.com  
 
 <!---
